@@ -6,5 +6,5 @@ This is the official repo for issue tracking, a place where people can report bu
 
 You can download:-
 
- - HEIC to JPEG [here](ms-windows-store://pdp/?productid=9N83TKCGNLK3)
+ - HEIC to JPEG [here](https://www.microsoft.com/store/apps/9N83TKCGNLK3)
 
