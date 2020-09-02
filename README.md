@@ -10,17 +10,9 @@ This is the official repo for issue tracking, a place where people can report bu
 
 ![](Images/heic-to-jpeg.png)
 
-# Bugs
+# Bugs & New Features
 
-Software is never perfect. There will always be bugs, but we want to make sure that you have the proper tools to report them to us. When you spot an issue, please open a new issue and include the following details:
-- Which variant and version of the software
-- A brief summary of the bug
-- What you expect to happen
-- What actually happens
-- Reproduction steps
-
-The above details will help us work with you in fixing the issue. 
-
+Software is never perfect, there will always be the odd bug or room for improvement, so please report them to us using the issue tracker. We don't want this to be hard, so all we ask is that you include the variant and version of the software you're discussing.
 
 # FAQ
 
