@@ -8,7 +8,7 @@ This is the official repo for issue tracking, a place where people can report bu
  - Download HEIC to JPEG **FREE** [here](https://www.microsoft.com/store/apps/9NTVCMPJM5V3)
  - View the Manual [here](https://duckheadsoftware.com/#xl_xr_page_heic_to_jpeg)
 
-![](Images/HEIC to JPEG.png)
+![]("Images/HEIC to JPEG.png")
 
 # Bugs
 
