@@ -17,21 +17,20 @@ Software is never perfect, there will always be the odd bug or room for improvem
 
 # FAQ
 
-Why not open source the app?
+**Why not open source the app?**
 
 - HEIC to JPEG and it's variants use sub-licensed components with special permission which would not be available to other developers. 
 
-Can I can contribute?
+**Can I can contribute?**
 
 - HEIC to JPEG and its variants are not open source. The best way to contribute is to open an issue or feature request.
 
-If you're not open source, why create this repo?
+**If you're not open source, why create this repo?**
 
 - The goal of this repo is to provide a method for people to report problems and create feature requests. This is more productive than using Twitter, email, or other methods. 
 
-Why are there multiple applications?
+**Why are there multiple applications?**
 
-- The apps building blocks were to be easy to use but also cater for more experience users. 
 - HEIC to JPEG is for beginners and is the easiest to use, there are no options and it just gets on with converting without the user having to know anything.
 - HEIC to JPEG Pro is for intermediate and has more options and output formats while still being easy to use.
 - HEIC to JPEG Advanced is for people who not only know what they're doing, but have a lot of files or even entire drives to convert.
