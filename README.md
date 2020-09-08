@@ -31,7 +31,7 @@ Software is never perfect, there will always be the odd bug or room for improvem
 
 **Why are there multiple applications?**
 
-- HEIC to JPEG is for beginners and is the easiest to use, there are no options and it just gets on with converting without the user having to know anything.
-- HEIC to JPEG Pro is for intermediate and has more options and output formats while still being easy to use.
-- HEIC to JPEG Advanced is for people who not only know what they're doing, but have a lot of files or even entire drives to convert.
+- **HEIC to JPEG** is for beginners and is the easiest to use, there are no options and it just gets on with converting without the user having to know anything.
+- **HEIC to JPEG Pro** is for intermediate and has more options and output formats while still being easy to use.
+- **HEIC to JPEG Advanced** is for people who not only know what they're doing, but have a lot of files or even entire drives to convert.
 
