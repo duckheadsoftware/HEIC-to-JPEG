@@ -9,7 +9,7 @@ This is the official repo for issue tracking, a place where people can report bu
  - Download HEIC to JPEG Advanced [here](https://www.microsoft.com/store/apps/9MZT48292QBZ), HEIC to JPEG Advanced **FREE** [here](https://www.microsoft.com/store/apps/9P9NL8MM9747), User-Guide [here](https://duckheadsoftware.com/#xl_xr_page_heic_to_jpeg)
  
 
-![](Images/heic-to-jpeg-4.1.png)
+![](Images/SuperHeroArt.png)
 
 # Bugs & New Features
 
